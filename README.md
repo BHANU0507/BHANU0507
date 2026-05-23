@@ -349,21 +349,20 @@
 
 ## `$ git log --stats`
 
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=BHANU0507&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=8b949e" />
-
-<img height="175" src="https://streak-stats.demolab.com?user=BHANU0507&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=8b949e&stroke=30363d" />
-
-</div>
+<!-- GITHUB STATS -->
+<div class="section-header">git log --stats</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANU0507&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&langs_count=8" />
+  <img 
+    height="190" 
+    src="https://streak-stats.demolab.com?user=BHANU0507&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=8b949e&stroke=30363d" 
+    alt="GitHub Streak" 
+  />
 
 </div>
 
----
+</div>
 
 <!-- FOOTER QUOTE -->
 <div align="center">
